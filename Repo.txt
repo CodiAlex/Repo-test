@@ -4,3 +4,6 @@ echo instalando
 blender , Blender - comandos
 echo vai instalar
 ---
+Kdenlive , kdenlive - comandos
+echo Instalando
+---
