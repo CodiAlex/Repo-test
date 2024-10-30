@@ -5,5 +5,5 @@ blender , Blender - comandos
 echo vai instalar
 ---
 Kdenlive , kdenlive - comandos
-echo Instalando
+echo Kdenlive sendo instalado.
 ---
