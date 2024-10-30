@@ -1,0 +1,6 @@
+vlc , Vlc - comandos
+echo instalando
+---
+blender , Blender - comandos
+echo vai instalar
+---
